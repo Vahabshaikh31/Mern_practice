@@ -1,0 +1,5 @@
+Rest api
+
+GET /user - List all users
+GET /user/1 - List 1 users
+GET /user/2 - List 2 users
